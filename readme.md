@@ -8,6 +8,7 @@ Assume that Ti requests a variable held by Tj. The following table summarizes th
 
                             wait-die         wound-wait
 Ti is younger than Tj       Ti dies          Ti waits
+
 Ti is older than Tj       Ti waits         Tj aborts
 
 

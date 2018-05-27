@@ -1,11 +1,6 @@
-Team Members:
+Task: To implement 2 phase locking with Wound-Wait:
 
-Akash Agrawal (B15303)
-
-Our approach:
-
-We have to implement 2 phase locking with Wound-Wait:
-
+Algorithm:
 Assume that Ti requests a variable held by Tj. The following table summarizes the actions taken for wait-die and wound-wait scheme:
 
 Ti is younger than Tj       Ti dies          Ti waits
